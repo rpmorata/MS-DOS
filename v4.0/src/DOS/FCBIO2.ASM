@@ -718,5 +718,4 @@ EndProc $FCB_RANDOM_WRITE
 
 CODE ENDS
 END
-
-
+

@@ -377,4 +377,3 @@ EndProc Set_EXT_mode			    ;AN000;
 
 CODE	ENDS
     END
-

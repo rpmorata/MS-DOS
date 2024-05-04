@@ -750,4 +750,3 @@ EndProc BatOpen
 
 TRANCODE    ENDS
 	    END
-

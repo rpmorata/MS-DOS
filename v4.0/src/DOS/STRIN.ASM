@@ -400,4 +400,3 @@ entry   REEDIT
         JMP     OUTT
 
 EndProc $STD_CON_STRING_INPUT
-

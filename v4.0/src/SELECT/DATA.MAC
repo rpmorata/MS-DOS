@@ -499,4 +499,3 @@ LVB_INITED     DB   0			     ;AN000;flag for LVB allocated
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DATA	       ENDS			     ;AN000;
 PAGE					     ;AN000;
-
