@@ -6,7 +6,7 @@ set MASM=
 set COUNTRY=usa-ms
 set BAKROOT=d:
 rem BAKROOT points to the home drive/directory of the sources.
-set LIB=%BAKROOT%\src\tools\bld\lib
-set INIT=%BAKROOT%\src\tools
-set INCLUDE=%BAKROOT%\src\tools\bld\inc
-set PATH=%BAKROOT%\src\tools
+set LIB=%BAKROOT%\SRC\TOOLS\BLD\LIB
+set INIT=%BAKROOT%\SRC\TOOLS
+set INCLUDE=%BAKROOT%\SRC\TOOLS\BLD\INC
+set PATH=%BAKROOT%\SRC\TOOLS
